@@ -25,6 +25,14 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Docker Images
+
+### DockerHub
+docker.io/jvargast/curso-devops-lab2:jv
+
+### GitHub Container Registry
+ghcr.io/jvargast/curso-devops-lab2:jv
+
 ## Project setup
 
 ```bash
