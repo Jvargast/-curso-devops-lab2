@@ -30,6 +30,10 @@
 ### DockerHub
 docker.io/jvargast/curso-devops-lab2:jv
 
+```
+https://hub.docker.com/r/jvargast/curso-devops-lab2
+```
+
 ### GitHub Container Registry
 ghcr.io/jvargast/curso-devops-lab2:jv
 
