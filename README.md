@@ -37,6 +37,9 @@ https://hub.docker.com/r/jvargast/curso-devops-lab2
 ### GitHub Container Registry
 ghcr.io/jvargast/curso-devops-lab2:jv
 
+### Repositorio del proyecto
+`https://github.com/Jvargast/-curso-devops-lab2`
+
 ## Project setup
 
 ```bash
