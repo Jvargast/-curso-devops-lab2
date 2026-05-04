@@ -1,0 +1,4 @@
+* 8a22c37 (HEAD -> main, origin/main, origin/jose-vargas, origin/HEAD, jose-vargas) feat: update readme
+* d523de1 feat: update readme
+* 8a8d5de feat: se agrega  dockerfile, evidencia y se actualiza readme
+* 8c698c4 First Commit

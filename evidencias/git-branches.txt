@@ -1,0 +1,5 @@
+  jose-vargas
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/jose-vargas
+  remotes/origin/main
